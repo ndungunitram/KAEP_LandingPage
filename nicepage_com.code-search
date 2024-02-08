@@ -1,0 +1,26 @@
+# Query: nicepage.com
+# ContextLines: 1
+
+5 results - 2 files
+
+Home.html:
+   11      <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+   12:     <meta name="generator" content="Nicepage 6.4.0, xyz.com">
+   13      <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+   36    <body data-path-to-root="./" data-include-products="false" class="u-body u-white u-xl-mode" data-lang="en"><header class="u-clearfix u-custom-color-7 u-header u-sticky u-sticky-bdf0 u-header" id="Menu"><div class="u-clearfix u-sheet u-sheet-1">
+   37:         <a href="https://xyz.com" class="u-image u-logo u-image-1" data-image-width="956" data-image-height="295">
+   38            <img src="images/LogoJouleEni-ENG_CMYK.png" class="u-logo-image u-logo-image-1">
+
+  435      <footer class="u-clearfix u-custom-color-7 u-footer" id="sec-fd86"><div class="u-clearfix u-sheet u-valign-middle-sm u-valign-middle-xs u-sheet-1">
+  436:         <a href="https://xyz.com" class="u-image u-logo u-image-1" data-image-width="956" data-image-height="295">
+  437            <img src="images/LogoJouleEni-ENG_CMYK.png" class="u-logo-image u-logo-image-1">
+
+index.html:
+  11      <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+  12:     <meta name="generator" content="Nicepage 6.4.0, xyz.com">
+  13      <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+
+  36    <body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-white u-xl-mode" data-lang="en"><header class="u-clearfix u-custom-color-7 u-header u-sticky u-sticky-bdf0 u-header" id="Menu"><div class="u-clearfix u-sheet u-sheet-1">
+  37:         <a href="https://xyz.com" class="u-image u-logo u-image-1" data-image-width="956" data-image-height="295">
+  38            <img src="images/LogoJouleEni-ENG_CMYK.png" class="u-logo-image u-logo-image-1">
