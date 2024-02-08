@@ -44254,11 +44254,29 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 991px) {
   .u-footer .u-menu-1 {
-    margin-top: 20px;
+    margin-top: -26px;
   }
 }
+@media (max-width: 767px) {
+  .u-footer .u-image-1 {
+    margin-top: 22px;
+  }
 
+  .u-footer .u-menu-1 {
+    margin-top: -24px;
+    margin-bottom: 22px;
+  }
+}
+@media (max-width: 575px) {
+  .u-footer .u-sheet-1 {
+    min-height: 116px;
+  }
 
+  .u-footer .u-image-1 {
+    width: 120px;
+    height: 36px;
+  }
+}
 
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
